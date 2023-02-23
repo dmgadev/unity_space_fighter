@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2eb6f59efeba0954182be329cba91892
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemy_projectile: {instanceID: 0}
+  - player_ship: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
